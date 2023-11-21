@@ -1,5 +1,5 @@
-package today;
+package app;
 
-public class today {
+public class app {
 
 }
